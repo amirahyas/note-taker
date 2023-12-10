@@ -1,15 +1,20 @@
 {
-    "notes": [
-      {
-        "id": 1,
-        "title": "Meeting Notes",
-        "text": "Discuss quarterly targets."
-      },
-      {
-        "id": 2,
-        "title": "Ideas",
-        "text": "Brainstorm for new project ideas."
-      }
-    ]
-  }
-  
+  "notes": [
+    {
+      "id": 1,
+      "title": "Friday",
+      "text": "Make coffee."
+    },
+    {
+      "id": 2,
+      "title": "Saturday",
+      "text": "Call doctor"
+    },
+    {
+      "id": 2,
+      "title": "Sunday",
+      "text": "Get mail"
+    }
+    
+  ]
+}
