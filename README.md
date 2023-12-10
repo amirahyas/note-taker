@@ -46,3 +46,6 @@ Starting a New Note
 Click on the "New Note" button in the navigation to start a new note.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
+
+screenshot :
+![Screenshot (10)](https://github.com/amirahyas/note-taker/assets/143109513/0fe2e65a-0d99-4098-a44e-7081fd8782a3)
